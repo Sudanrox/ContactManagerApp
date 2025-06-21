@@ -1,0 +1,27 @@
+Contact Manager App - Documentation
+
+Purpose:
+This C# console application helps users manage a list of contacts. It supports adding, viewing, searching, editing, and deleting contact entries. The app also saves contact information between sessions using file storage.
+
+Features:
+- Add new contacts with Name, Phone, Email, and Address
+- View all saved contacts
+- Search for contacts by name (case-insensitive)
+- Edit existing contacts
+- Delete contacts
+- Save/load data to/from a text file (contacts.txt)
+
+Technologies Used:
+- C# (.NET Console App)
+- List<Contact> for dynamic storage
+- File I/O with System.IO
+- Console-based user interface
+
+Sample Test Data:
+1. Alice Johnson | 123-456-7890 | alice@example.com | 1 Main St
+2. Bob Smith     | 555-123-4567 | bob@example.com   | 99 Elm Road
+
+Instructions:
+1. Run using: dotnet run
+2. Follow the menu to interact with the contact manager.
+3. Data is saved automatically to contacts.txt when the program exits.

@@ -1,0 +1,14 @@
+/Users/sudankhatri/Desktop/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp
+/Users/sudankhatri/Desktop/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.deps.json
+/Users/sudankhatri/Desktop/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.runtimeconfig.json
+/Users/sudankhatri/Desktop/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.dll
+/Users/sudankhatri/Desktop/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.pdb
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.AssemblyInfoInputs.cache
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.AssemblyInfo.cs
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.csproj.CoreCompileInputs.cache
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.dll
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/refint/ContactManagerApp.dll
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.pdb
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.genruntimeconfig.cache
+/Users/sudankhatri/Desktop/ContactManagerApp/obj/Debug/net9.0/ref/ContactManagerApp.dll
